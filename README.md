@@ -1,2 +1,4 @@
-# my-portfolio-2
-My professional portfolio
+# Karla's portfolio
+
+This is a professional porftolio made with React and AWS
+
